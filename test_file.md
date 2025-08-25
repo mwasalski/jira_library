@@ -1,1 +1,2 @@
-#test file to check branch creation
+# test text for conflict
+# conflcit newBranch
